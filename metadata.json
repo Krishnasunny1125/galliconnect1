@@ -1,0 +1,7 @@
+{
+  "name": "Galliconnect",
+  "description": "A hyperlocal connection app linking customers with neighborhood shops for groceries, fruits, and medicines with real-time tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
